@@ -1,0 +1,16 @@
+1: Missing SalesRep: OrderNumber, Unit, Unit Price, Number Sold, Customer, Region, Date
+2: Missing SalesRep: 1001, End Table, 175.00, 3, ABC Corporation, EAST, 10/5/15
+3: Missing SalesRep: 1005, Coffee Table, 200, 2, John NewHouse, Central, 10/7/15
+4: Missing SalesRep: 1100, Computer Desk, 375.00, 10, Office Industries, WEST, 11/10/15
+5: Missing SalesRep: 2002, Entertainment Center, 650, 1, Jane Branch, West, 2/30/16
+6: Missing SalesRep: 2003, Writers Desk, 325, 1, Joe White, Central, 2/3/16
+7: Missing SalesRep: 2010, Dinint Table, 800, 1, Faye Gathers, East, 2/15/16
+8: Missing SalesRep: 3003, Computer Desk, 250, 20, NewOffices Inc, 11/12/16
+9: Missing Data in line: 3003, Computer Desk, 250, 20, NewOffices Inc, 11/12/16
+10: Similar ID's: 1001
+11: Changed date formant from: 3-Nov-16 to 3/11/16
+12: Changed date formant from: 4-Nov-16 to 4/11/16
+13: Changed date formant from: 4-Nov-16 to 4/11/16
+14: Changed date formant from: 11-Nov-16 to 11/11/16
+15: Similar ID's: 1005
+16: Changed date formant from: 12-Nov-16 to 12/11/16

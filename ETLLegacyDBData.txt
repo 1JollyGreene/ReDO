@@ -1,0 +1,8 @@
+OrderNumber, Unit, Unit Price, Number Sold, Customer, Region, Date
+1001, End Table, 175.00, 3, ABC Corporation, EAST, 10/5/15
+1005, Coffee Table, 200, 2, John NewHouse, Central, 10/7/15
+1100, Computer Desk, 375.00, 10, Office Industries, WEST, 11/10/15
+2002, Entertainment Center, 650, 1, Jane Branch, West, 2/30/16
+2003, Writers Desk, 325, 1, Joe White, Central, 2/3/16
+2010, Dinint Table, 800, 1, Faye Gathers, East, 2/15/16
+3003, Computer Desk, 250, 20, NewOffices Inc, 11/12/16

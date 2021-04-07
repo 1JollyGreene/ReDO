@@ -1,0 +1,6 @@
+OrderID,Customer,Sales Rep,Region,Product,Unit Price,Units Sold,Total,SalesDate
+1001,Big Company,J. Smith,Central,Office Chair,75,100,7500,3-Nov-16
+1002,Small Company,J. Smith,Central,Conference Table,500,1,500,4-Nov-16
+1003,Mid Industrial,E. White,Central,Office Table,350,10,3500,4-Nov-16
+1004,Gen Corp,E. White,Central,Office Chair,50,1000,50000,11-Nov-16
+1005,Gen Corp,E. White,Central,Office Table,300,1000,300000,12-Nov-16

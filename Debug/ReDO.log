@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\peter\Desktop\ReDO\ReDO\Source.cpp(17,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\peter\Desktop\ReDO\ReDO\Source.cpp(66,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\peter\Desktop\ReDO\ReDO\Source.cpp(83,21): warning C4018:  '<=': signed/unsigned mismatch
+C:\Users\peter\Desktop\ReDO\ReDO\Source.cpp(154,20): warning C4018:  '<=': signed/unsigned mismatch
+C:\Users\peter\Desktop\ReDO\ReDO\Source.cpp(164,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\peter\Desktop\ReDO\ReDO\Source.cpp(247,21): warning C4018:  '<': signed/unsigned mismatch
+  ReDO.vcxproj -> C:\Users\peter\Desktop\ReDO\Debug\ReDO.exe
